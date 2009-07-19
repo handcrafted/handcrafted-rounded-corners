@@ -1,5 +1,9 @@
 #Handcrafted Rounded Corners
 
+##Example Code
+
+See here: http://wiki.github.com/handcrafted/handcrafted-rounded-corners
+
 ##Introduction
 
 Handcrafted Rounded Corners is a simple way to round corners with [HAML](http://haml-lang.com/), [SASS](http://sass-lang.com/) and [Compass](http://compass-style.org/).
