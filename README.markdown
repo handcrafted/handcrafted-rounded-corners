@@ -2,7 +2,7 @@
 
 ##Example Code
 
-See here: http://wiki.github.com/handcrafted/handcrafted-rounded-corners
+See the [wiki](http://wiki.github.com/handcrafted/handcrafted-rounded-corners) for more details.
 
 ##Introduction
 
