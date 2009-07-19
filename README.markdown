@@ -12,7 +12,7 @@ If you have questions, call 1-800-513-7421 or email us at [hello@gethandcrafted.
 
 ##Credits
 
-Created by [Adam Stacoviak](http://www.adamstacoviak.com/ "Adam Stacoviak | Freelance Ruby on Rails Front-end Developer") and Josh Owens. Adam and Josh are the co-founders of [Handcrafted](http://gethandcrafted.com/ "Handcrafted &ndash; Ruby on Rails Products and Open Source Software"), a Ruby on Rails Products and Open Source Software Company.
+Created by [Adam Stacoviak](http://www.adamstacoviak.com/ "Adam Stacoviak | Freelance Ruby on Rails Front-end Developer"). Adam is a co-founder of [Handcrafted](http://gethandcrafted.com/ "Handcrafted &ndash; Ruby on Rails Products and Open Source Software"), a Ruby on Rails Products and Open Source Software Company.
 
 Much love to [HAML](http://haml-lang.com/), [SASS](http://sass-lang.com/) and [Compass](http://compass-style.org/). You've changed our lives!
 
