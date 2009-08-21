@@ -18,6 +18,6 @@ Much love to [HAML](http://haml-lang.com/), [SASS](http://sass-lang.com/) and [C
 
 ##Setup
 
-1. Copy `_rounded_corners.sass` into your Compass supported project
-2. Use Compass's @import method to import `_rounded_corners.sass` into your style-sheet
+1. Copy `_border-radius.sass` into your Compass supported project
+2. Use Compass's @import method to import `_border-radius.sass` into your style-sheet
 3. Enjoy!
